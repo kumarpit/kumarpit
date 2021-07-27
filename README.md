@@ -1,4 +1,4 @@
-👋 _Hi! I’m Arpit. Rising sophomore @universityOfBC_
+👋 _Hi! I’m Arpit. Rising sophomore @universityofBC_
 
 * 🌱 __Currently Learning__ : full-stack web development, strengthening my foundations in data structures and algorithms.
 * 🔭 __Currently Working On__ : WatchNow / All-Sets

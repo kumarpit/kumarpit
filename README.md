@@ -8,3 +8,7 @@
 * Feel free to contact me on [linkedin](https://www.linkedin.com/in/krarpit/ "Linkedin")
 
 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarpit&theme=radical)
+
+

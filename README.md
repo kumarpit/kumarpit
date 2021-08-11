@@ -6,9 +6,3 @@
 * 💾 __Technologies__ : React.js, Node.js, Express, SASS, MySQL, MongoDB, Swing, Socket.io
 * 🔨 __Tools__ : Figma, VSCode
 * Feel free to contact me on [linkedin](https://www.linkedin.com/in/krarpit/ "Linkedin")
-
-
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarpit&theme=radical)
-
-

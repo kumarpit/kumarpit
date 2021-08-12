@@ -2,7 +2,7 @@
 
 * 🌱 __Currently Learning__ : full-stack web development, strengthening my foundations in data structures and algorithms.
 * 🔭 __Currently Working On__ : All-Sets
-* 🚀 __Languages__ : JavaScript, Java, Python, HTML/CSS
+* 🚀 __Languages__ : JavaScript, Java, Python, Racket, HTML/CSS
 * 💾 __Technologies__ : React.js, Node.js, Express, SASS, MySQL, MongoDB, Swing, Socket.io
-* 🔨 __Tools__ : Figma, VSCode
+* 🔨 __Tools__ : Figma, PhotoshopCS6
 * Feel free to contact me on [linkedin](https://www.linkedin.com/in/krarpit/ "Linkedin")

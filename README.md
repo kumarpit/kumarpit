@@ -4,5 +4,5 @@
 * 🔭 __Currently Working On__ : All-Sets
 * 🚀 __Languages__ : JavaScript, Java, Python, Racket, HTML/CSS
 * 💾 __Technologies__ : React.js, Node.js, Express, SASS, MySQL, MongoDB, Swing, Socket.io
-* 🔨 __Tools__ : Figma, PhotoshopCS6
+* 🔨 __Tools__ : Figma, Photoshop CS6
 * Feel free to contact me on [linkedin](https://www.linkedin.com/in/krarpit/ "Linkedin")

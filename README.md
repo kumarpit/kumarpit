@@ -5,4 +5,4 @@
 * 🚀 __Languages__ : JavaScript, Java, Python, Racket, HTML/CSS
 * 💾 __Technologies__ : React.js, Node.js, Express, SASS, MySQL, MongoDB, Swing, Socket.io
 * 🔨 __Tools__ : Figma, Photoshop CS6
-* Feel free to contact me on [linkedin](https://www.linkedin.com/in/krarpit/ "Linkedin")
+* Feel free to contact me on [linkedin](https://www.linkedin.com/in/krarpit/ "Linkedin") or at [kumar.arpit77@yahoo.com](mailto:kumar.arpit77@yahoo.com)

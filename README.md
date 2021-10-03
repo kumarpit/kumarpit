@@ -1,4 +1,4 @@
-👋 _Hi! I’m Arpit. I'm a second-year student @UBC intending to major in Computer Science. I make stuff and put it here. Always learning and making better stuff._
+👋 _Hi! I’m Arpit. I'm a second-year student @UBC intending to major in Computer Science. I make stuff and put it here. _
 
 * 🌱 __Currently Learning__ : React Native, Django
 * 🔭 __Currently Working On__ : All-Sets

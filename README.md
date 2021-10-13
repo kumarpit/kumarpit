@@ -1,6 +1,6 @@
 👋 _Hi! I’m Arpit. I'm a second-year student @UBC intending to major in Computer Science. I make stuff and put it here._
 
-* 🌱 __Currently Learning__ : React Native, Django
+* 🌱 __Currently Learning__ : React Native
 * 🔭 __Currently Working On__ : All-Sets
 * 🚀 __Languages__ : JavaScript, Java, Python, Racket, HTML/CSS
 * 💾 __Technologies__ : React.js, Node.js, Express, SASS, MySQL, MongoDB, Swing, Socket.io

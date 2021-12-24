@@ -1,4 +1,4 @@
-👋 _Hi! I’m Arpit. I'm a second-year student @UBC majoring in Computer Science. I play around with ideas and new technologies and put all of my progress here._
+👋 _Hi! I’m Arpit. I'm a second-year student @UBC majoring in Computer Science. Have a look around at some of the projects I have been working on._
 
 * 🌱 __Currently Learning__ : React Native
 * 🔭 __Currently Working On__ : Brainstorm

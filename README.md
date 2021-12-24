@@ -2,7 +2,7 @@ Hey! I’m Arpit 👋. I enjoy writing useful bits of software to make aspects o
 
 * 🌱 __Currently Learning__ : React Native
 * 🔭 __Currently Working On__ : Brainstorm
-* 🚀 __Languages__ : JavaScript, Java, Python, Racket, HTML/CSS
+* 🚀 __Languages__ : JavaScript, Java, Python, HTML/CSS
 * 💾 __Technologies__ : React.js, Node.js, Express, SASS, MySQL, MongoDB, FastAPI, Web Sockets
 * 🔨 __Tools__ : Figma, Photoshop CS6
 

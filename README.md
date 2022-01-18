@@ -3,7 +3,7 @@ Hey! I’m Arpit 👋. I enjoy writing useful bits of software to make aspects o
 * 🌱 __Currently Learning__ : Flutter
 * 🔭 __Currently Working On__ : Brainstorm
 * 🚀 __Languages__ : JavaScript, Java, Python, HTML/CSS
-* 💾 __Technologies__ : React.js, Node.js, Express, Firebase, MySQL, MongoDB, FastAPI, Web Sockets
+* 💾 __Technologies__ : React.js, Node.js, Express, Firebase, MySQL, MongoDB, FastAPI
 * 🔨 __Tools__ : Figma, Photoshop CS6
 
 

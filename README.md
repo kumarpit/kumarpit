@@ -1,7 +1,3 @@
-Hey! I’m Arpit 👋. I enjoy writing useful bits of software to make aspects of my life easier. Currently focusing on mastering software design fundamentals. Feel free to contact me on [linkedin](https://www.linkedin.com/in/krarpit/ "Linkedin") or [kumar.arpit77@yahoo.com](mailto:kumar.arpit77@yahoo.com) to collaborate on projects or to just have a chat.
+Hey! I’m Arpit. I'm a second-year student at UBC with a major in computer science and a minor in math. I enjoy building software tools and am interested in exploring infrastructure, systems design and machine learning. 
 
-* 🌱 __Currently Learning__ : Networks, Backend development
-* 🔭 __Currently Working On__ : Brainstorm - implementing plain-text OT
-* 🚀 __Languages__ : JavaScript, Java, C/C++, Python, HTML/CSS
-* 💾 __Technologies__ : React.js, Node.js, Express, Firebase, MySQL, MongoDB, FastAPI
-* 🔨 __Tools__ : Figma, Photoshop CS6
+[[site](https://www.kumarpit.github.io)] [[mail](mailto:kumar.arpit77@yahoo.com)] [[linkedin](https://www.linkedin.com/in/krarpit)]
